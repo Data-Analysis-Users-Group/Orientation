@@ -2,7 +2,7 @@
 Everything you need to know about DATA at the MPCA.
 
 
-###	Recommended software and tools
+###	:wrench: Recommended software and tools
 
 - Tableau  
 - R
@@ -27,7 +27,7 @@ Everything you need to know about DATA at the MPCA.
 -	Storing large data
   -	Your very own PostgreSQL
   
-###	Where to go for help? Learning resources?
+###	:question: Where to go for help and learning resources
 
 -	GIS
 -	Tableau
