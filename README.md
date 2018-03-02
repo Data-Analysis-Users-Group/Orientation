@@ -11,7 +11,7 @@ __CONTENTS__
 [Software and tools](#tools)  
 [Find data](#data)  
 [Share data online](#share-data)  
-[Get Help](#help)  
+[Get Help!](#help)  
 [Learning and tutorials](#learning) 
 [Tips and Warnings](#warning)  
 [Storing big data](#big-files)  
