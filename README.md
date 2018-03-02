@@ -9,6 +9,7 @@ Everything you need to know about DATA at the MPCA.
 [Storing big data](#big-files)  
 
 
+<br>
 
 ###	:wrench: Recommended software and tools <a name="tools"/>
 
@@ -45,7 +46,7 @@ Everything you need to know about DATA at the MPCA.
 ###	:floppy_disk: Receiving and storing big data <a name="big-files"/>
 
 -	Storing big data
-  -	Your very own PostgreSQL
+    -	Your very own PostgreSQL
 - Receiving large files
   -	Skype
   -	FTP?
