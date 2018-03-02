@@ -4,7 +4,8 @@ Everything you need to know about DATA at the MPCA.
 [Software and tools](#tools)  
 [Find data](#data)  
 [Share data online](#share-data)  
-[Help and learning](#learning)  
+[Get Help](#help)  
+[Learning and tutorials](#learning) 
 [Tips and Warnings](#warning)  
 [Storing big data](#big-files)  
 
@@ -15,7 +16,7 @@ Everything you need to know about DATA at the MPCA.
 
 - Tableau  
 - R
-- Databases?
+- Databases
 
 ###	:file_folder: Where to find air, water, land, GIS data <a name="data"/>
 
@@ -28,14 +29,23 @@ Everything you need to know about DATA at the MPCA.
 - ESRI
 -	Tableau
   - Current online tools
-  
-###	:question: Where to go for help and learning resources <a name="learning"/>
+
+###	:question: Where to go for help <a name="help"/>
 
 -	GIS
 -	Tableau
 -	R
 -	Python
--	Outside resources and groups?
+-	Outside resources and groups
+
+
+###	:question: Learning resources <a name="learning"/>
+
+-	GIS
+-	Tableau
+-	R
+-	Python
+-	Outside resources and groups
 
 
 ### :warning: Tips and Warnings <a name="warning"/>
