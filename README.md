@@ -4,7 +4,7 @@ Everything you need to know about DATA at the MPCA.
 
 ###	Recommended software and tools
 
--Tableau  
+- Tableau  
 - R
 - Databases?
 
@@ -35,6 +35,6 @@ Everything you need to know about DATA at the MPCA.
 -	Python
 -	Outside resources and groups?
 
-### Warnings and No-Nos
+### :warning: Warnings
 
 -	Private data
