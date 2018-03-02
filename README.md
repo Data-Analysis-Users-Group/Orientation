@@ -26,11 +26,15 @@ __CONTENTS__
 - R
 - Databases
 
-###	:mag_right: Where to find air, water, land, GIS data <a name="data"/>
+###	:mag_right: Where to find data <a name="data"/>
 
 - What’s in TEMPO
 - Shapefiles
--
+- Air 
+- Water
+- Land
+- GIS
+- Census
 
 ###	:rocket: Sharing data, analysis, and reports online <a name="share-data"/>
 
