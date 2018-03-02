@@ -39,7 +39,7 @@ Everything you need to know about DATA at the MPCA.
 -	Outside resources and groups
 
 
-###	:question: Learning resources <a name="learning"/>
+###	:pencil2: Learning resources <a name="learning"/>
 
 -	GIS
 -	Tableau
