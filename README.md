@@ -23,6 +23,7 @@ __CONTENTS__
 
 - Tableau  
 - R
+- Python
 - Databases
 
 ###	:mag_right: Where to find air, water, land, GIS data <a name="data"/>
