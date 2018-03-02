@@ -2,32 +2,32 @@
 Everything you need to know about DATA at the MPCA.
 
 
-##	Recommended software and tools
+###	Recommended software and tools
 
--Tableau
+-Tableau  
 - R
 - Databases?
 
-##	Where to find air, water, land, GIS data
+###	Where to find air, water, land, GIS data
 
 - What’s in TEMPO
 - Shapefiles
 -
 
-##	How to share data, analysis, and reports online
+###	How to share data, analysis, and reports online
 
 - ESRI
 -	Tableau
   - Current online tools
 
-##	How to share and receive large files (w/o involving MNIT)
+###	How to share and receive large files (w/o involving MNIT)
 
 -	Skype
 -	FTP?
 -	Storing large data
   -	Your very own PostgreSQL
   
-##	Where to go for help? Learning resources?
+###	Where to go for help? Learning resources?
 
 -	GIS
 -	Tableau
@@ -35,6 +35,6 @@ Everything you need to know about DATA at the MPCA.
 -	Python
 -	Outside resources and groups?
 
-## Warnings and No-Nos
+### Warnings and No-Nos
 
 -	Private data
