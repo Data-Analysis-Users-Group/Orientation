@@ -22,8 +22,8 @@ __CONTENTS__
 ###	:wrench: Recommended software and tools <a name="tools"/>
 
 - Tableau  
-- R
 - Python
+- R
 - Databases
 
 ###	:mag_right: Where to find air, water, land, GIS data <a name="data"/>
@@ -67,4 +67,4 @@ __CONTENTS__
     -	Your very own PostgreSQL
 - Receiving large files
   -	Skype
-  -	FTP?
+  -	FTP
