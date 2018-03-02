@@ -18,7 +18,7 @@ Everything you need to know about DATA at the MPCA.
 - R
 - Databases
 
-###	:file_folder: Where to find air, water, land, GIS data <a name="data"/>
+###	:mag_right: Where to find air, water, land, GIS data <a name="data"/>
 
 - What’s in TEMPO
 - Shapefiles
